@@ -41,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sway2003&" alt="sway2003" /></p>
 <hr>
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some [🦜 parrots]:-
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
