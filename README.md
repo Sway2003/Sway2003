@@ -39,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sway2003&show_icons=true&theme=onedark&title_color=6db3fd&text_color=3eabc1&locale=en" alt="sway2003" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sway2003&" alt="sway2003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sway2003&show_icons=true&theme=onedark&title_color=6db3fd&text_color=3eabc1&locale=en" alt="sway2003" /></p>
 <hr>
 Here are some [🦜 parrots]:-
 
