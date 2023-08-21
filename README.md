@@ -30,7 +30,6 @@ Here are some [🦜 parrots]:-
  
  <p><strong>PARTY OR DIE >:(</strong></p>
 
-###Spotify
 
  [<img src="https://spotify-playing-theta.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swayams)
 
