@@ -32,7 +32,7 @@ Here are some [🦜 parrots]:-
 
 
  
-[![Spotify](https://spotify-playing-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31vmlocwkbhdxocnqssvjcq6jb2i)
+[![Spotify](https://spotifyreadme-iota.vercel.app/api/spotify)](https://open.spotify.com/user/31vmlocwkbhdxocnqssvjcq6jb2i)
 
 
 <hr>
