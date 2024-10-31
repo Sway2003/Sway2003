@@ -33,6 +33,7 @@ Here are some [🦜 parrots]:-
  
 <h3 align="left">Spotify Playing 🎧</h3>
 
+[![Spotify](https://novatorem-rust-delta.vercel.app/api/spotify)](https://open.spotify.com/user/31vmlocwkbhdxocnqssvjcq6jb2i)
 
 
 <hr>
