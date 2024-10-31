@@ -36,4 +36,4 @@ Here are some [🦜 parrots]:-
 [![Spotify](https://spotify-player-api.vercel.app/api/spotify)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde)
 
 
-<hr> fix the markdown code
+<hr>
