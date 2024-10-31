@@ -32,7 +32,8 @@ Here are some [🦜 parrots]:-
 
 
  
- [<img src="https://spotify-playing-theta.vercel.app/api/spotify" alt="Sway Spotify Playing" width="350" />](https://open.spotify.com/user/swayams)
+[![Spotify](https://spotify-playing-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31vmlocwkbhdxocnqssvjcq6jb2i)
+
 
 <hr>
 
