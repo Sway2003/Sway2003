@@ -33,7 +33,7 @@ Here are some [🦜 parrots]:-
  
 <h3 align="left">Spotify Playing 🎧</h3>
 
-[![Spotify](https://spotify-player-api.vercel.app/api/spotify)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde)
+[![Spotify](https://spotifyreadme-sway.app/api/spotify)](https://open.spotify.com/user/31jcfozkj546etplv5yjkqx44kde)
 
 
 <hr>
